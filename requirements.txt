@@ -1,0 +1,7 @@
+pyTelegramBotAPI==4.14.0
+rutermextract==0.3
+transformers==4.33.3
+tensorflow<2.11
+torch
+torchvision
+torchaudio
