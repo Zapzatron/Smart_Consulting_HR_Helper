@@ -26,7 +26,7 @@ t.me/KlochayAlexander  &ensp;&ensp;t.me/HitriyVitya	&emsp;&emsp;t.me/Ogyre4ik3	&
 
 Наш бот освобождает от этих проблем HR менеджеров.
 
-Стек решения: Python, HuggingFace Transformers, Sklearn, PyTorch, pyTelegramBotAPI
+Стек технологий: Python, HuggingFace Transformers, Sklearn, PyTorch, pyTelegramBotAPI
 
 
 ### Описание работы бота:
