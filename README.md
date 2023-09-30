@@ -1,4 +1,4 @@
-# Hackaton Создай HR-бота (Компания «Smart Consulting»)
+# Hackaton Создай HR-бота (Smart Consulting)
 
 Данный репозитории является решением задания от SmartConsulting командой Don`t even try.
 
