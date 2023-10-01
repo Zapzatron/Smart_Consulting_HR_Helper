@@ -26,6 +26,9 @@ t.me/KlochayAlexander  &ensp;&ensp;t.me/HitriyVitya	&emsp;&emsp;t.me/Ogyre4ik3	&
 
 Наш бот освобождает от этих проблем HR менеджеров.
 
+Уникальность: Мы предлагаем удобное и эффективное решение для обработки запросов сотрудников с использованием AI,  
+что позволяет экономить время и улучшать производительность.
+
 Стек технологий: Python, HuggingFace Transformers, Sklearn, PyTorch, pyTelegramBotAPI
 
 
